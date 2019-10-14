@@ -13,7 +13,6 @@ Krátký odkaz na stažení: [bit.ly/webaz-lekce4](http://bit.ly/webaz-lekce4)
 ## Flexbox příklady
 
 1. [Flexbox - hlavička](flexbox-priklady-2/Flexbox-05-hlavicka/)
-1. [Flexbox - kontakty](flexbox-priklady-2/Flexbox-06-kontakty/)
 
 
 # Odkazy
