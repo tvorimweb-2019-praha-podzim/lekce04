@@ -1,6 +1,6 @@
-# [Tvořím web od A do Z](https://github.com/TvorimWeb-2018-Praha/tvorim-web-a-z): Podklady pro 6. lekci
+# [Tvořím web od A do Z](https://github.com/czechitas/tvorim-web-a-z): Podklady pro 4. lekci
 
-Krátký odkaz na stažení: [is.gd/lekce6](https://is.gd/lekce6)
+Krátký odkaz na stažení: [bit.ly/webaz-lekce4](http://bit.ly/webaz-lekce4)
 
 ## Flexbox základy
 
@@ -21,4 +21,4 @@ Krátký odkaz na stažení: [is.gd/lekce6](https://is.gd/lekce6)
 - [Vzhůru dolů - Flebox kontejnet](https://www.vzhurudolu.cz/prirucka/css3-flexbox-kontejner)
 - [Vzhůru dolů - Flexbox položky](https://www.vzhurudolu.cz/prirucka/css3-flexbox-polozky)
 - [CSS-Tricks - Flexbox přehled](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- Video kurz - https://flexbox.io/ 
+- Video kurz - https://flexbox.io/
